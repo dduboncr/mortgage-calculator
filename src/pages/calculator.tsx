@@ -130,6 +130,7 @@ const Calculator = () => {
         <div>
           <label>
             Monthly Mortgage Payment :
+            
             <input type="number" name="name" value={monthlyPayment} />
           </label>
         </div>
